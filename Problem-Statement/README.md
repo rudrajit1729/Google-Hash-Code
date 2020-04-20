@@ -1,1 +1,0 @@
-# Book Scanning (Google Books)

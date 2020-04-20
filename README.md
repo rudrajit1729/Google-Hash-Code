@@ -1,7 +1,9 @@
 # Google-Hash-Code
 
-Book Scanning
-Solution to the Online Round problem statement for Google Hash Code 2020.
+My journey in Google Hash Code
 
-Score : 24,497,926
-
+# My team
+1. Rudrajit Choudhuri
+2. Avirup Aditya
+3. Debargha Ghosh
+4. Avik Bose
